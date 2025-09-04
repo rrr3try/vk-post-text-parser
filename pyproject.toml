@@ -1,0 +1,10 @@
+[project]
+name = "vk-post-text-parser"
+version = "0.1.0"
+description = "VK wall post text parser with progress bar and attachment downloader"
+requires-python = ">=3.12"
+dependencies = [
+    "vk-api",
+    "requests",
+    "rich",
+]

@@ -1,13 +1,11 @@
 {
-    "access_token": "YOUR_TOKEN_HERE",
-    "domain": "group_or_profile_id",
+    "access_token": "",
+    "domain": "seluyanov_vn",
     "post_number": 0,
+    "download_attachments": true,
     "post_filter": {
         "ad_allowed": false,
-        "repost_allowed": false,
-        "restricted_words": [
-            "write_your_restricted_comma",
-            "separated_words"
-        ]
+        "repost_allowed": true,
+        "restricted_words": []
     }
 }
